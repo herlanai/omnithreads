@@ -1,0 +1,11 @@
+{
+  "name": "omnithreads",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ui run dev",
+    "build:web": "npm --prefix ui run build && node scripts/copy-web.mjs",
+    "build": "npm run build:web && CGO_ENABLED=0 go build -o build/omnithreads ./cmd/omnithreads",
+    "package": "bash scripts/package-macos.sh",
+    "test": "CGO_ENABLED=0 go test ./... && npm --prefix ui run typecheck && npm --prefix ui test"
+  }
+}
