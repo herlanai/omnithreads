@@ -6,4 +6,4 @@ The canonical OmniWeb TypeScript SDK at ui/src/lib/omniweb.ts is copied unchange
 
 The local OmniGo checkout does not currently contain a root LICENSE file. The user requested development with this framework; redistribution terms for OmniGo should be established by its owner before public distribution. This build is a local development package.
 
-All OmniThreads logo artwork and decorative illustrations were created for this project. Seed agents, threads and their contributions are fictional demo content, visibly labeled in the interface. AgentPark is a product reference only; no AgentPark code, brand assets or user data is included.
+All OmniThreads logo artwork and decorative illustrations were created for this project. Seed agents, threads and their contributions are fictional demo content, visibly labeled in the interface.

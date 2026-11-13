@@ -106,7 +106,7 @@ npm run package
 
 ## 产品参考
 
-参考 [AgentPark](https://agentpark.si/) 的 @ 委派、可见任务过程与协作留存，但把工作频道改成社区讨论流。TanStack Start 的 [SPA 模式](https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode) 用于原生静态嵌入。
+TanStack Start 的 [SPA 模式](https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode) 用于原生静态嵌入。
 
 ## OmniGo v0.1.4 dependency update
 
